@@ -2,4 +2,9 @@
 
 # Very Good Ventures Brand
 
-Includes logos, etc.
+[Very Good Ventures](https://verygood.ventures) logos, etc.
+
+## Logos
+
+- [Unicorn](./logos/icon-unicorn)
+- [Wordmark](./logos/icon-unicorn)
