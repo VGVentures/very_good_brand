@@ -7,4 +7,6 @@
 ## Logos
 
 - [Unicorn](./logos/icon-unicorn)
-- [Wordmark](./logos/icon-unicorn)
+- [Wordmark](./logos/wordmark)
+
+© Copyright Very Good Ventures LLC. All rights reserved. All content is the exclusive property of Very Good Ventures LLC.
