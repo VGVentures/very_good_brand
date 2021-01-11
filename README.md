@@ -2,17 +2,16 @@
 
 # Very Good Ventures Brand
 
-[Very Good Ventures](https://verygood.ventures) logos, etc.
+Everything needed to keep the branding for [Very Good Ventures](https://verygood.ventures) consistent across any and all communication.
 
 ## Logos
 
 - [Unicorn](./logos/icon-unicorn)
 - [Wordmark](./logos/wordmark)
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+## Templates
+
+- [Email Signature](./email-signature.html)
+- [GitHub Readme](./github_readme.md)
 
 © Copyright Very Good Ventures LLC. All rights reserved. All content is the exclusive property of Very Good Ventures LLC.
