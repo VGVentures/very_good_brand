@@ -12,6 +12,6 @@ Everything needed to keep the branding for [Very Good Ventures](https://verygood
 ## Templates
 
 - [Email Signature](./email-signature.html)
-- [GitHub Readme](./github_readme.md)
+- [GitHub Readme](./github-readme.md)
 
 © Copyright Very Good Ventures LLC. All rights reserved. All content is the exclusive property of Very Good Ventures LLC.
