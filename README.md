@@ -1,9 +1,11 @@
+# Very Good Ventures Brand
+
 [![Very Good Ventures][logo_white]][very_good_ventures_link_dark]
 [![Very Good Ventures][logo_black]][very_good_ventures_link_light]
 
-# Very Good Ventures Brand
-
 Everything needed to keep the branding for [Very Good Ventures](https://verygood.ventures) consistent across any and all communication.
+
+---
 
 ## Logos
 
